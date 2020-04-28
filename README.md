@@ -19,8 +19,7 @@
 **论文搜索**：[AEA](https://www.aeaweb.org/) &emsp; [ES](https://www.econometricsociety.org/) &emsp; [cnki](https://www.cnki.net/) &emsp; [scholar_cnki](http://scholar.cnki.net/) &emsp; [Google_scholar](https://scholar.google.com)  &emsp; [百度学术](http://xueshu.baidu.com/) &emsp; [我要下论文网](http://www.51xialunwen.com/) &emsp; [虫部落](https://scholar.chongbuluo.com/)
 
 **民大链接**：[研究生信息管理系统](http://id.scuec.edu.cn/authserver/login?service=http://yjs.scuec.edu.cn/epstar/login/index.jsp) &emsp; [VPN](https://vpn.scuec.edu.cn/por/login_psw.csp?rnd=0.305955907343418#https://vpn.scuec.edu.cn/) &emsp; [经济学院](http://www.scuec.edu.cn/economics/) &emsp; [研究生院](http://www.scuec.edu.cn/yjsy/) &emsp; [图书馆](http://www.lib.scuec.edu.cn/) &emsp; 
-
-**申请博士**：[华科经院](http://eco.hust.edu.cn/) &emsp; [武大经管院](http://ems.whu.edu.cn/) &emsp; [IESR](https://iesr.jnu.edu.cn/#/) &emsp; [人大经院](http://econ.ruc.edu.cn/) &emsp; [复旦经院](https://econ.fudan.edu.cn/) &emsp; [上交安泰经管院](http://www.acem.sjtu.edu.cn/) &emsp; [上财经院](http://econ.shufe.edu.cn/) &emsp; [社科院人口与劳动经济系](http://iple.cssn.cn/) &emsp; 
+ 
 
 **生源地助学贷款**：[国家开发银行](https://sls.cdb.com.cn/#/)
 
