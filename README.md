@@ -4,7 +4,7 @@
 
 **个人主页**： [GitHub](https://github.com/Meiting-Wang) &emsp; [码云](https://gitee.com/wangmeiting)  &emsp; [CSDN](https://blog.csdn.net/wangmeitingaa)  &emsp; [简书](https://www.jianshu.com/u/86e99383f572) &emsp;
 
-**常用期刊**：[经济研究](http://www.erj.cn/)
+**常用期刊**：[经济研究](http://www.erj.cn/) &emsp; [中国工业经济](http://www.ciejournal.org/)
 
 **LaTeX**：[在线生成 LaTeX 数学公式](https://www.codecogs.com/latex/eqneditor.php) &emsp; [在线生成表格](http://www.tablesgenerator.com/markdown_tables) &emsp; [excel2latex](https://www.cnblogs.com/hnuhui/p/5612118.html) &emsp; [TeX Live](https://www.tug.org/texlive/) &emsp; [TeXstudio](https://www.texstudio.org/) &emsp; [stackexchange](https://tex.stackexchange.com/) &emsp; [LaTeX 科技排版工作室](https://www.latexstudio.net/) &emsp; 
 
